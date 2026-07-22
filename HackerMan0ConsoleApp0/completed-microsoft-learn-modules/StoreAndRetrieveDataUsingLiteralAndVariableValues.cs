@@ -47,14 +47,14 @@
 // message = 57233.1m;
 // var cantDothis;
 
-string name = "Bob";
-int age;
-age = 99;
-var someNumber = 34.40M;
+// string name = "Bob";
+// int age;
+// age = 99;
+// var someNumber = 34.40M;
 
-Console.Write("My name is ");
-Console.Write(name);
-Console.Write(" and I am ");
-Console.Write(age);
-Console.Write(" years old. My favorite number is ");
-Console.Write(someNumber);
+// Console.Write("My name is ");
+// Console.Write(name);
+// Console.Write(" and I am ");
+// Console.Write(age);
+// Console.Write(" years old. My favorite number is ");
+// Console.Write(someNumber);
