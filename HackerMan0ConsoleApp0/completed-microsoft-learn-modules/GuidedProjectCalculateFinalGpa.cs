@@ -1,6 +1,3 @@
-﻿Console.WriteLine("HackerMan0's Main Program.cs ....");
-
-// Module specific code below ...
 
 // GuidedProjectCalculateFinalGpa.cs
 
@@ -61,8 +58,3 @@
 // Console.WriteLine("\n");
 
 // Console.WriteLine($"Final GPA: {leadingDigit}.{firstDecimalDigit}{secondDecimalDigit}");
-
-
-
-
-
