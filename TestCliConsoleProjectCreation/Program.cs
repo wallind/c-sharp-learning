@@ -1,1 +1,1 @@
-﻿Console.WriteLine("Hello, HackerMan's World!");
+﻿Console.WriteLine("XD | Hello, this is HackerMan's World! | 0.0");
